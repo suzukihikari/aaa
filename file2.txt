@@ -1,7 +1,5 @@
+aaa
 branch1 commit2
-
-
-
 dfkjslf
 =======
 testbranch
