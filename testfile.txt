@@ -6,14 +6,8 @@ testfile
 hhhhh
 gggg
 fff
-<<<<<<< HEAD
 jhgkdfkdfg
 
-=======
-
-
-;:;l:;l:
->>>>>>> 5538ce2b7da0fd37fb861ea24edc168021722869
 
 
 jjjj

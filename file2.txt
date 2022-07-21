@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 branch1 commit2
 
 
 
 dfkjslf
+=======
+testbranch
+>>>>>>> b5936a8 (test branch commit)
 fsdfsd
