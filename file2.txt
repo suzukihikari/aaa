@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 branch1 commit2
 
 
